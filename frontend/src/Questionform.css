@@ -1,0 +1,17 @@
+.question-form {
+    margin-bottom: '20px';    
+}
+
+.question-input {
+    padding: '8px';
+    width: '300px';
+    margin-right: '10px';
+}
+
+.question-button {
+    padding: '8px 16px';
+}
+
+.answer {
+    margin-bottom: 10px;    
+}
